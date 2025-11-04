@@ -32,6 +32,9 @@ a{
 img{
   width: 100%;
 }
+#amg{
+  width:25%;
+}
 #nav{
     background-color:orange;
     float: block;
